@@ -1,0 +1,5 @@
+## 📦 Dataset Download
+
+[Click here to download the full COVID dataset] >> https://drive.google.com/file/d/1VX7rIw7EgCjmHfxY7vDJ135m93hm30s0/view?usp=drive_link
+
+Unzip and place the CSV files into the `datasets/` folder before running scripts.
